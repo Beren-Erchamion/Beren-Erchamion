@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Beren-Erchamion
+- 👋 Hi, I’m @t-mapa,
 - 👀 I’m interested in sports, history, art, and tech!
 - 🌱 I’m currently learning math and programming skills to become a Data Scientist
 - 💞️ I’m looking to collaborate on anything under the sun
